@@ -1,6 +1,6 @@
 # parallax-1
 Page 404
-
+![Image](https://github.com/user-attachments/assets/00e6615d-031c-4c30-9dce-0c0c7e69b398)
 - [Demo Project](https://mohananoruztabar.github.io/game/)
 
 -🙋🏽‍♀️ Developed by Mohana Noruztabar
